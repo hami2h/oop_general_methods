@@ -1,7 +1,7 @@
 <?php
 
 
-class db
+class methods
 {
     protected $pdo;
     private $server;
